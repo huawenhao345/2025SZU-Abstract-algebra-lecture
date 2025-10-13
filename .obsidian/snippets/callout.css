@@ -1,0 +1,24 @@
+.callout[data-callout="definition"] {
+  --callout-color: 187, 255, 255;
+  --callout-icon: lucide-squircle;
+}
+.callout[data-callout="theorem"] {
+  --callout-color: 255, 215, 0;
+  --callout-icon: lucide-squircle;
+}
+.callout[data-callout="property"] {
+  --callout-color: 127, 255, 212;
+  --callout-icon: lucide-squircle;
+}
+.callout[data-callout="proposition"] {
+  --callout-color: 78, 86, 192;
+  --callout-icon: lucide-squircle;
+}
+.callout[data-callout="lemma"] {
+  --callout-color: 155, 93, 224;
+  --callout-icon: lucide-squircle;
+}
+.callout[data-callout="corollary"] {
+  --callout-color: 248, 247, 186;
+  --callout-icon: lucide-squircle;
+}
