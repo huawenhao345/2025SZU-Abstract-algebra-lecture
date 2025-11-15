@@ -60,6 +60,7 @@
     {trigger: "Re", replacement: "\\operatorname{Re}", options: "mA"},
 	{trigger: "Im", replacement: "\\operatorname{Im}", options: "mA"},
 	{trigger: "Ker", replacement: "\\operatorname{Ker}", options: "mA"},
+	{trigger: "Orb", replacement: "\\operatorname{Orb}", options: "mA"},
     {trigger: "bf", replacement: "\\mathbf{$0}$1", options: "mA"},
     {trigger: "bb", replacement: "\\mathbb{$0}$1", options: "mA"},
 	{trigger: "rm", replacement: "\\mathrm{$0}$1", options: "mA"},

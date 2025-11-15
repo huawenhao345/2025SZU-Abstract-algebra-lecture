@@ -1,5 +1,5 @@
 .callout[data-callout="definition"] {
-  --callout-color: 187, 255, 255;
+  --callout-color: 137, 108, 57;
   --callout-icon: lucide-squircle;
 }
 .callout[data-callout="theorem"] {
